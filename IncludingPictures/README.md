@@ -1,0 +1,1 @@
+Managed to buffer actual pictures, two from files and one is from URL.
